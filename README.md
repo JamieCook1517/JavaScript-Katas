@@ -1,6 +1,6 @@
 # JavaScript-Katas
 
-
+A repository with a file of katas performing various algorithms using JavaScript.
 
 ## Installation 
 
